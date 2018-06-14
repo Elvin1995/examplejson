@@ -58,18 +58,18 @@
            {
              "id": 1,
              "retailername": "Argos",
-             "deatils": "1% cashback for all purchases.",
+             "details": "1% cashback for all purchases.",
              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Argos_logo.svg/2000px-Argos_logo.svg.png"
            },
            {
              "id": 2,
              "retailername": "Central",
-             "deatils": "1% cashback for all purchases, excluding cigarettes and alcohol.",
+             "details": "1% cashback for all purchases, excluding cigarettes and alcohol.",
              "url": "http://akamai.paramountcomedy.com/cc/videos/promos/REBRAND-logo-swap-EXP.jpg"
            },{
              "id": 3,
              "retailername": "Supplier name",
-             "deatils": "Cashback summary terms. Full details will be on the supplier’s website.",
+             "details": "Cashback summary terms. Full details will be on the supplier’s website.",
              "url": "http://akamai.paramountcomedy.com/cc/videos/promos/REBRAND-logo-swap-EXP.jpg"
            }
           ]
