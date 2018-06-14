@@ -52,33 +52,26 @@
              "amount": "£93.00",
              "url": "http://www.stickpng.com/assets/images/5a5a719614d8c4188e0b089f.png",
              "time": "1 Oct 2017"
-           },
-           {
-             "id": 9,
-             "cardname": "Virgin Money Credit Card",
-             "amount": "£145.54",
-             "url": "https://cdn.freebiesupply.com/logos/large/2x/virgin-books-1-logo-png-transparent.png",
-             "time": "6 Sep 2017"
-           },
-           {
-             "id": 10,
-             "cardname": "Thames Water",
-             "amount": "£93.00",
-             "url": "http://www.stickpng.com/assets/images/5a5a719614d8c4188e0b089f.png",
-             "time": "1 Oct 2017"
-           },{
-             "id": 11,
-             "cardname": "Virgin Money Credit Card",
-             "amount": "£145.54",
-             "url": "https://cdn.freebiesupply.com/logos/large/2x/virgin-books-1-logo-png-transparent.png",
-             "time": "6 Sep 2017"
-           },
-           {
-             "id": 12,
-             "cardname": "Thames Water",
-             "amount": "£93.00",
-             "url": "http://www.stickpng.com/assets/images/5a5a719614d8c4188e0b089f.png",
-             "time": "1 Oct 2017"
            }
-         ]
+         ],
+           "retailers": [
+           {
+             "id": 1,
+             "retailername": "Argos",
+             "deatils": "1% cashback for all purchases.",
+             "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Argos_logo.svg/2000px-Argos_logo.svg.png"
+           },
+           {
+             "id": 2,
+             "retailername": "Central",
+             "deatils": "1% cashback for all purchases, excluding cigarettes and alcohol.",
+             "url": "http://akamai.paramountcomedy.com/cc/videos/promos/REBRAND-logo-swap-EXP.jpg"
+           },{
+             "id": 3,
+             "retailername": "Supplier name",
+             "deatils": "Cashback summary terms. Full details will be on the supplier’s website.",
+             "url": "http://akamai.paramountcomedy.com/cc/videos/promos/REBRAND-logo-swap-EXP.jpg"
+           }
+          ]
+           
 }
