@@ -54,7 +54,7 @@
              "time": "1 Oct 2017"
            }
          ],
-           "retailers": [
+"retailers": [
            {
              "id": 1,
              "retailername": "Argos",
@@ -72,6 +72,5 @@
              "details": "Cashback summary terms. Full details will be on the supplier’s website.",
              "url": "http://akamai.paramountcomedy.com/cc/videos/promos/REBRAND-logo-swap-EXP.jpg"
            }
-          ]
-           
+          ]           
 }
