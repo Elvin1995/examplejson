@@ -72,5 +72,60 @@
              "details": "Cashback summary terms. Full details will be on the supplier’s website.",
              "url": "http://akamai.paramountcomedy.com/cc/videos/promos/REBRAND-logo-swap-EXP.jpg"
            }
-          ]           
+          ],
+"payments": [
+    {
+      "id": 1,
+      "name": "EE Top-up",
+      "sortcode": "30-93-74",
+      "account": "7275326",
+      "url": "https://www.cc.com.mt/wp-content/uploads/2014/12/EE.png"
+    },
+    {
+      "id": 2,
+      "name": "British Gas",
+      "sortcode": "30-93-74",
+      "account": "7275326",
+      "url": "https://www.waste-creative.com/content/bg/british-gas.png"
+    },{
+      "id": 3,
+      "name": "EE Top-up",
+      "sortcode": "30-93-74",
+      "account": "7275326",
+      "url": "https://www.cc.com.mt/wp-content/uploads/2014/12/EE.png"
+    },
+    {
+      "id": 4,
+      "name": "British Gas",
+      "sortcode": "30-93-74",
+      "account": "7275326",
+      "url": "https://www.waste-creative.com/content/bg/british-gas.png"
+    },{
+      "id": 5,
+      "name": "EE Top-up",
+      "sortcode": "30-93-74",
+      "account": "7275326",
+      "url": "https://www.cc.com.mt/wp-content/uploads/2014/12/EE.png"
+    },
+    {
+      "id": 6,
+      "name": "British Gas",
+      "sortcode": "30-93-74",
+      "account": "7275326",
+      "url": "https://www.waste-creative.com/content/bg/british-gas.png"
+    },{
+      "id": 7,
+      "name": "EE Top-up",
+      "sortcode": "30-93-74",
+      "account": "7275326",
+      "url": "https://www.cc.com.mt/wp-content/uploads/2014/12/EE.png"
+    },
+    {
+      "id": 8,
+      "name": "British Gas",
+      "sortcode": "30-93-74",
+      "account": "7275326",
+      "url": "https://www.waste-creative.com/content/bg/british-gas.png"
+    },
+   ] 
 }
