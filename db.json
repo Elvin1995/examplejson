@@ -159,37 +159,6 @@
       "cashback": ""      
     }
    ],
- "countries" : [
-    {
-      "id": 1,
-      "name": "Great Britain",
-      "flag": "http://flags.fmcdn.net/data/flags/w580/gb.png"
-    }, {
-      "id": 2,
-      "name": "Bulgaria",
-      "flag": "http://flagpedia.net/data/flags/w580/bg.png"
-    }, {
-      "id": 3,
-      "name": "Latvia",
-      "flag": "http://flags.fmcdn.net/data/flags/w580/lv.png"
-    }, {
-      "id": 4,
-      "name": "Lithuania",
-      "flag": "http://flags.fmcdn.net/data/flags/w580/lt.png"
-    }, {
-      "id": 5,
-      "name": "Russia",
-      "flag": "http://flags.fmcdn.net/data/flags/w580/ru.png"
-    }, {
-      "id": 6,
-      "name": "Poland ",
-      "flag": "http://flags.fmcdn.net/data/flags/w580/pl.png"
-    }, {
-      "id": 7,
-      "name": "Romania",
-      "flag": "http://flags.fmcdn.net/data/flags/w580/ro.png"
-    }
-  ],
  "purposes" : [
     { "header": "Purpose of transfer" },
     {
