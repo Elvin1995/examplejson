@@ -159,7 +159,7 @@
       "cashback": ""      
     }
    ],
- "purposes" : [
+ "transferPurposes" : [
     { "header": "Purpose of transfer" },
     {
       "id": 1,
