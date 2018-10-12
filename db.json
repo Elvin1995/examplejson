@@ -54,7 +54,8 @@
              "time": "1 Oct 2017"
            }
          ],
- "Data": {
+ "Data": [
+     {
     "UserId": 795526,
     "LoginId": 201942,
     "IsSelfServiceCustomer": true,
@@ -93,7 +94,8 @@
     "Id": [
       "817850"
     ]
-  },
+  }
+  ],
 "payments": [
     {
       "id": 1,
