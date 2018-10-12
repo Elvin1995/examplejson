@@ -54,25 +54,46 @@
              "time": "1 Oct 2017"
            }
          ],
-"retailers": [
-           {
-             "id": 1,
-             "retailername": "Argos",
-             "details": "1% cashback for all purchases.",
-             "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Argos_logo.svg/2000px-Argos_logo.svg.png"
-           },
-           {
-             "id": 2,
-             "retailername": "Central",
-             "details": "1% cashback for all purchases, excluding cigarettes and alcohol.",
-             "url": "http://akamai.paramountcomedy.com/cc/videos/promos/REBRAND-logo-swap-EXP.jpg"
-           },{
-             "id": 3,
-             "retailername": "Supplier name",
-             "details": "Cashback summary terms. Full details will be on the supplier’s website.",
-             "url": "http://akamai.paramountcomedy.com/cc/videos/promos/REBRAND-logo-swap-EXP.jpg"
-           }
-          ],
+ "Data": {
+    "UserId": 795526,
+    "LoginId": 201942,
+    "IsSelfServiceCustomer": true,
+    "IsGenderMale": 1,
+    "CustomerNumber": "1353603",
+    "FirstName": "ELVIN",
+    "LastName": "CAFAROV",
+    "FullName": "ELVIN CAFAROV",
+    "DateOfBirth": "22/12/1995",
+    "MobileTelephone": "+1234567890",
+    "Email": "ELVINCAFAROV95@GMAIL.COM",
+    "CountryId": 1,
+    "Address1": "1234 EVESHAM ROAD",
+    "Address2": "ASTWOOD BANK",
+    "Town": "REDDITCH",
+    "County": "WORCESTERSHIRE",
+    "Postcode": "B96 6AA",
+    "DateCreated": "03/10/2018",
+    "DateModified": "03/10/2018",
+    "IsUnverifiedMobileTelephone": false,
+    "UnverifiedEmail": "elvincafarov95@gmail.com",
+    "IsUnverifiedEmail": true,
+    "TemporaryMobileTelephone": "+1234567890",
+    "TemporaryEmail": "elvincafarov95@gmail.com",
+    "UserName": "elvincafarov95@gmail.com",
+    "CountryName": "United Kingdom",
+    "EnableVerifyPhoneCode": false,
+    "WindowsTimeZone": "GMT Standard Time",
+    "UserSettingsItemID": 136199,
+    "BuildingNumber": "1234",
+    "IsPostcodeCompany": false,
+    "EmailAllowed": false,
+    "PhoneCallAllowed": false,
+    "PostAllowed": false,
+    "SmsAllowed": false,
+    "Id": [
+      "817850"
+    ]
+  },
 "payments": [
     {
       "id": 1,
